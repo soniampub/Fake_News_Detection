@@ -1,2 +1,3 @@
 data/*.pkl
 models/.ipynb_checkpoints/
+data/*.json
