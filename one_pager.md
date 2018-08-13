@@ -17,11 +17,12 @@ I implemented various classification models such as Naive Bayes, Logistic Regres
 #### Performance
 | MODEL                  | ACCURACY  | F1 SCORE  | PRECISION | RECALL    | AUC       |
 |------------------------|-----------|-----------|-----------|-----------|-----------|
-| Naive Bayes            | 0         | 0         | 0         | 0         | 0         |
-| Logistic Regression    | 0         | 0         | 0         | 0         | 0         |
-| Random Forest          | 0         | 0         | 0         | 0         | 0         |
-| Support Vector Machine | 0         | 0         | 0         | 0         | 0         |
-| AdaBoost               | 0         | 0         | 0         | 0         | 0         |
+| Naive Bayes            | 81.971    | 73.997    | 70.672    | 77.651    | 0         |
+| Logistic Regression    | 89.320    | 83.692    | 84.444    | 82.952    | 0         |
+| Random Forest          | 89.148    | 82.405    | 88.729    | 76.923    | 0         |
+| Support Vector Machine | 88.908    | 82.474    | 86.266    | 79.002    | 0         |
+| Gradient Boosting      | 91.003    | 85.929    | 88.889    | 83.160    | 0         |
+| AdaBoost               | 87.054    | 80.736    | 79.397    | 82.121    s| 0         |
 
 #### Project link
 https://github.com/soniampub/Fake_News_Detection
