@@ -21,8 +21,10 @@ I implemented various classification models such as Naive Bayes, Logistic Regres
 | Logistic Regression    | 89.320    | 83.692    | 84.444    | 82.952    | 0.88      |
 | Random Forest          | 89.148    | 82.405    | 88.729    | 76.923    | 0.86      |
 | Support Vector Machine | 88.908    | 82.474    | 86.266    | 79.002    | 0.86      |
-| Gradient Boosting      | 91.003    | 85.929    | 88.889    | 83.160    | 0.86      |
-| AdaBoost               | 87.054    | 80.736    | 79.397    | 82.121    | 0.89      |
+| Gradient Boosting      | 91.003    | 85.929    | 88.889    | 83.160    | 0.89      |
+| AdaBoost               | 87.054    | 80.736    | 79.397    | 82.121    | 0.86      |
+| Ensemble Model         | 91.415    | 86.574    | 89.556    | 83.784    | 0.89      |
+| RNN with LSTM          | 89.779    | 84.504    | 85.260    | 83.664    | 0.88      |
 
 #### Project link
 https://github.com/soniampub/Fake_News_Detection
