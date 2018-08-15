@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 data/*.pkl
 data/.ipynb_checkpoints/
+images/.ipynb_checkpoints/
 models/.ipynb_checkpoints/
 data/*.json
