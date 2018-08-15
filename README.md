@@ -15,7 +15,7 @@ Various classification models (Naïve Bayes, Logistic Regression, Random Forest,
 Since the order of the words can carry useful information in a text classification, I also explored a recurrent neural network (RNN) using LSTM which is considered to work well with serialized data such as text. I transferred original text to a fixed length integer vector and only considered 500 words and padded short length articles with 0. I also used word embedding to transfer each word id to 32-dimension vector. 
 
 ### Modeling Flow
-![modeling_flow](images/modeling_flow.PNG)
+![modeling_flow](images/modeling_flow.png)
 
 ### Performance
 | MODEL                  | ACCURACY  | F1 SCORE  | PRECISION | RECALL    | AUC       |
